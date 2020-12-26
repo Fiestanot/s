@@ -1,0 +1,9 @@
+C:\Users\semih\source\repos\MicroServiceSample\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\semih\source\repos\MicroServiceSample\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\semih\source\repos\MicroServiceSample\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\semih\source\repos\MicroServiceSample\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\semih\source\repos\MicroServiceSample\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\semih\source\repos\MicroServiceSample\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\semih\source\repos\MicroServiceSample\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\semih\source\repos\MicroServiceSample\Entity\obj\Debug\netstandard2.0\Entity.pdb
+C:\Users\semih\source\repos\MicroServiceSample\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache

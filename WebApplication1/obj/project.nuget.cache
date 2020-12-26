@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tHT3yDrK7nrKgIDoGKmxDWQ5+Ge9VOlimWpl/97zNprScLXqHrqUKgpMKkMea+krw8imLd8AzuyOd1ijo9f2hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semih\\source\\repos\\MicroServiceSample\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\semih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

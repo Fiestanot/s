@@ -1,0 +1,12 @@
+C:\Users\semih\source\repos\MicroServiceSample\Repostiroy\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\semih\source\repos\MicroServiceSample\Repostiroy\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\Users\semih\source\repos\MicroServiceSample\Repostiroy\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\semih\source\repos\MicroServiceSample\Repostiroy\bin\Debug\netstandard2.0\Repository.deps.json
+C:\Users\semih\source\repos\MicroServiceSample\Repostiroy\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\semih\source\repos\MicroServiceSample\Repostiroy\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\semih\source\repos\MicroServiceSample\Repostiroy\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\semih\source\repos\MicroServiceSample\Repostiroy\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\semih\source\repos\MicroServiceSample\Repostiroy\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+C:\Users\semih\source\repos\MicroServiceSample\Repostiroy\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
+C:\Users\semih\source\repos\MicroServiceSample\Repostiroy\obj\Debug\netstandard2.0\Repository.dll
+C:\Users\semih\source\repos\MicroServiceSample\Repostiroy\obj\Debug\netstandard2.0\Repository.pdb

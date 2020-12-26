@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "88QInMeCf1jWQ8jB+kvFjN3V0i7pA6pIdHC4fetz6EnA4IUUbkKOw30hL50HBGP0GAi0PEAiqxLroJOyimo0Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semih\\source\\repos\\MicroServiceSample\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semih\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\semih\\.nuget\\packages\\mongodb.bson\\2.11.5\\mongodb.bson.2.11.5.nupkg.sha512",
+    "C:\\Users\\semih\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
